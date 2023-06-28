@@ -28,7 +28,7 @@ The Bank App includes the following features:
 
 6. **Account Closure**: If users decide to close their accounts, they can initiate the account closure process through a dedicated account closure form.
 
-## Usage
+## Setup
 
 To run the Bank App locally, follow these steps:
 
