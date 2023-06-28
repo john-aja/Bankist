@@ -1,4 +1,4 @@
-# Bank App
+# Bankist
 
 This project is a simple bank app developed using HTML, CSS, and JavaScript. The app allows users to login with their credentials and provides them with a bank interface where they can perform various actions such as viewing their total amount, checking transaction history, making money transfers, requesting loans, and closing their accounts.
 
@@ -14,7 +14,7 @@ The Bank App is built using the following technologies:
 
 ## Features
 
-The Bank App includes the following features:
+The Bankist includes the following features:
 
 1. **User Authentication**: Users can securely log in to their accounts using their credentials.
 
@@ -30,7 +30,7 @@ The Bank App includes the following features:
 
 ## Setup
 
-To run the Bank App locally, follow these steps:
+To run the Bankist locally, follow these steps:
 
 1. Clone the repository from GitHub: `git clone https://github.com/john-aja/Bankist`
 
@@ -38,7 +38,7 @@ To run the Bank App locally, follow these steps:
 
 3. Open the `index.html` file in your preferred web browser.
 
-4. You should now see the Bank App interface, where you can log in with your credentials and explore the various features.
+4. You should now see the Bankist interface, where you can log in with your credentials and explore the various features.
 
 ## Contributing
 
@@ -61,7 +61,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support regarding the website, please contact:
+For any inquiries or support regarding the Bankist website, please contact:
 
 **_John_**
 
