@@ -64,6 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or support regarding the website, please contact:
 
 **_John_**
+
 Email: ***janakiram.0695@gmail.com***
 
 Feel free to reach out with any questions, feedback, or suggestions. Your input is highly appreciated!
