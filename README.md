@@ -61,7 +61,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support regarding the Scheme Welfare Web Application, please contact:
+For any inquiries or support regarding the website, please contact:
 
 **_John_**
 Email: ***janakiram.0695@gmail.com***
