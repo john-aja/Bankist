@@ -10,7 +10,7 @@ The Bank App is built using the following technologies:
 
 - **CSS**: CSS is used for styling the user interface and making the app visually appealing.
 
-- **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions, and making the necessary API calls.
+- **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
 
 ## Features
 
