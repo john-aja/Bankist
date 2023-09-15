@@ -1,6 +1,6 @@
 # Bankist
 
-![bankist-mock](https://github.com/john-aja/Bankist/assets/95049418/001222ec-bbb3-4e19-b199-2f03d85e04a4)
+![BANKIST](https://github.com/john-aja/Bankist/assets/95049418/43d3d440-5bc9-41c6-b6a1-284eebada2f6)
 
 This project is a simple bank app developed using HTML, CSS, and JavaScript. The app allows users to login with their credentials and provides them with a bank interface where they can perform various actions such as viewing their total amount, checking transaction history, making money transfers, requesting loans, and closing their accounts.
 
